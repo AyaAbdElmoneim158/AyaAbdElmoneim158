@@ -1,14 +1,12 @@
 <h1 align=center> Hi, I'm AyA 😊 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2></h1>
 
-- 🎓 I'm a fresh gradation.
-- 👨‍💻 I’m a Junior Flutter Developer
+- 🎓 I am a computer science graduate with knowledge of flutter framework, Api, Firebase, Bloc etc..., which I used in my graduation project EGX (Egyptian Exchange). Before working at flutter, I was a web developer with knowledge of html, css, js, Bootstrap, React Framwork, php...etc. Which used php to build the back end of a student activity website and Bootstrap to build the front end of another student activity.
 - :mailbox: You can reach me with the links below
 
 
 <div align="center">
-<a href="www.linkedin.com/in/aya-abdel-moneim-b75546221" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="ayaabdelmon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="gmail"></a>
-<a href="https://twitter.com/AyAAbdElmonei11" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white" alt="twitter"></a>
+<a href="https://www.linkedin.com/in/aya-abdel-moneim-b75546221/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="ayhb756@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="gmail"></a>
 </div>
 <br><br>
 
