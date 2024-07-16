@@ -5,9 +5,10 @@
 ### 🚀 Talking about Personal Stuffs:
 - 💻 I'm a computer science graduate.
 - 🌱 My interests are in the Flutter framework.
-- 👀 All of my projects are available at [Portfolio](https://github.com/AyaAbdElmoneim158/AyaAbdElmoneim158/blob/main/My_Projects.md)
-- 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions **ayhb756@gmail.com**.
+- 👀 See My [Portfolio](https://ayaabdelmoneim158.github.io/personal_portfolio/indexFlutter.html)
+<!---- 💬 Ask me about anything, I am happy to help;-->
+
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 15% height=10px>
 <h3 align="left">🔔 Connect with me:</h3>
