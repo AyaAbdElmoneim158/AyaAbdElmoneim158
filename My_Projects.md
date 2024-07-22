@@ -8,8 +8,33 @@
 
 
 ## 🔹Apps
-  * [Todo_app](https://github.com/AyaAbdElmoneim158/Flutter_courses/blob/7b2eb5878c220246b79418850467f98056a27287/README.md)
-  * [Notifiy_app](https://github.com/AyaAbdElmoneim158/Cloning_apps/blob/master/app/README.md)
+  * [Quran_app](https://github.com/AyaAbdElmoneim158/Quran_App_2023)
+  * [Notifiy_app](https://github.com/AyaAbdElmoneim158/Cloning_apps/blob/6b478ae568b2d9dad2106ff060b26de41341bf9d/app/README.md)
+  * [Ecommerce_app](https://github.com/AyaAbdElmoneim158/ecommerce_app)
+  * [Stock_app](https://github.com/AyaAbdElmoneim158/Stock_2022-2023/tree/4-final-editing_Aya)
   * [Flight_app](https://github.com/AyaAbdElmoneim158/Flights-app/blob/master/README.md)
-  * [Calculator app](https://github.com/AyaAbdElmoneim158/Cloning_apps/blob/25a5c2000557884fa056b7533ef619b39052eedd/app/README.md) <br>This calculator allows you to add, subtract, multiply, divide, and calculate remainders and powers. It has a clear button to reset the calculator and a delete icon to remove the last digit.
-  * [Bmi app](https://github.com/AyaAbdElmoneim158/Cloning_apps/blob/e52e69c474aacc961009e1b72b275320fcc84947/app/README.md)<br> This app can determine your BMI and assess your health status.
+  * [Calculator app](https://github.com/AyaAbdElmoneim158/Cloning_apps/blob/25a5c2000557884fa056b7533ef619b39052eedd/app/README.md) 
+  * [Bmi app](https://github.com/AyaAbdElmoneim158/Cloning_apps/blob/e52e69c474aacc961009e1b72b275320fcc84947/app/README.md)
+
+<!--<table>
+  <tr>
+    <td>
+
+### Key Components
+- Component 1
+- Component 2
+- Component 3
+- Component 4
+
+    </td>
+    <td>
+
+### Features
+- Feature A
+- Feature B
+- Feature C
+- Feature D
+
+    </td>
+  </tr>
+</table>-->
