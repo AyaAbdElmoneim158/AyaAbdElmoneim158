@@ -1,49 +1,73 @@
-<h2 align="center"> Hey there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aya Abdelmoneim</𝚌𝚘𝚍𝚎𝚛𝚜></h2>
-<!---<h3 align="center">Mobile Flutter Developer</h3><br>-->
-<div align="center" ><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a></div>
+<h2 align="center">Hey there, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Aya Abdelmoneim!</h2>
 
-### 🚀 Talking about Personal Stuffs:
-- 💻 I'm a computer science graduate.
-- 🌱 My interests are in the Flutter framework.
-- 📫 Please email me if you have any questions **ayhb756@gmail.com**.
-- 👀 See My [Portfolio](https://ayaabdelmoneim158.github.io/personal_portfolio-main/indexFlutter.html)
-<!---- 💬 Ask me about anything, I am happy to help;-->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&color=f75c7e&&width=435&lines=Mobile+Flutter+Developer;Always+Learning+Something+New;Building+Innovative+Mobile+Apps" alt="Typing SVG">
+  </a>
+</p>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 75% height=10px>
+
+### 🚀 About Me:
+- 🎓 I'm a **Computer Science graduate** with a passion for mobile app development.
+- 💻 I'm particularly interested in the **Flutter framework** and the exciting opportunities it offers.
+- 🌱 I’m always learning new things, whether it's exploring **Dart**, new libraries, or sharpening my **Firebase** skills.
+- 💬 I love collaborating on meaningful projects, and I'm always happy to help—let's connect!
+- 📫 **Reach out to me via email:** [ayhb756@gmail.com](mailto:ayhb756@gmail.com).
+- 👀 Check out my **[Portfolio](https://ayaabdelmoneim158.github.io/personal_portfolio-main/indexFlutter.html)** to see my work.
 
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 15% height=10px>
-<h3 align="left">🔔 Connect with me:</h3>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 50% height=10px>
+
+### 🔗 Connect With Me:
 <p align="left">
-<!---<img src="https://img.shields.io/badge/ayhb756@gmail.com-D14836?logo=gmail&logoColor=white">-->
-<a href="https://www.linkedin.com/in/aya-elmoneim/" target="blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aya-elmoneim/" target="blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/AyaAbdElmoneim158" target="blank"><img src="https://img.shields.io/badge/Github-010409?logo=Github&logoColor=white"></a>
 <a href="ayhb756@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="gmail"></a>
 </p>
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 35% height=10px>
-<h3 align="left">🔨 Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/></a>
-<a href="https://dart.dev" target="_blank" > <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/></a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/></a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="30" height="30"/></a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="gitHub" width="30" height="30"/></a>
 
- <!--- 
-  https://www.vectorlogo.zone/
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-ffca28?logo=Firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-19b7f6?logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=Visual-Studio-Code&logoColor=white">
-  <br>
-  <img width="30" src="https://static-00.iconduck.com/assets.00/dart-icon-511x512-jhyea1ft.png">
-  <img width="30" src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png">
-  <img width="30" src="https://static-00.iconduck.com/assets.00/firebase-icon-187x256-tl7d5nhg.png">
-  <img width="60" src="https://static-00.iconduck.com/assets.00/github-octocat-icon-256x225-r5izsrg0.png">
-  <img width="30" src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-256x255-hciehfs3.png">
-  <img width="30" src="https://static-00.iconduck.com/assets.00/figma-icon-171x256-cm2xsty6.png"> 
-  -->
+
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 35% height=10px>
+
+### 🛠️ Technologies and Tools:
+<p align="left">
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
 
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 25% height=10px>
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyaAbdElmoneim158&show_icons=true&theme=radical" alt="Aya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaAbdElmoneim158&theme=radical" alt="Aya's GitHub Streak" width="48%" />
+</p>
+
+
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 25% height=10px>
+
+### 🔥 Recent Activity:
+- 🌟 Starred a Flutter repo [Awesome-Flutter-Resources](https://github.com/Solido/awesome-flutter)
+- 📝 Contributed to [my-portfolio](https://ayaabdelmoneim158.github.io/personal_portfolio-main/indexFlutter.html)
+
+
+
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="50%" height="10px" />
