@@ -16,25 +16,11 @@
   * [Calculator app](https://github.com/AyaAbdElmoneim158/Cloning_apps/blob/25a5c2000557884fa056b7533ef619b39052eedd/app/README.md) 
   * [Bmi app](https://github.com/AyaAbdElmoneim158/Cloning_apps/blob/e52e69c474aacc961009e1b72b275320fcc84947/app/README.md)
 
-<!--<table>
-  <tr>
-    <td>
+<!---
 
-### Key Components
-- Component 1
-- Component 2
-- Component 3
-- Component 4
-
-    </td>
-    <td>
-
-### Features
-- Feature A
-- Feature B
-- Feature C
-- Feature D
-
-    </td>
-  </tr>
-</table>-->
+Quran_app             |  Notifiy_app             | Ecommerce_app
+:-------------------------:|:-------------------------:|:-------------------------:
+ <img align="center" src="https://cdn-icons-png.flaticon.com/512/10741/10741222.png" width="30px"> [Quran_app](https://github.com/AyaAbdElmoneim158/Quran_App_2023)| <img align="center" src="https://cdn-icons-png.flaticon.com/512/10741/10741222.png" width="30px"> [Notifiy_app](https://github.com/AyaAbdElmoneim158/Cloning_apps/blob/6b478ae568b2d9dad2106ff060b26de41341bf9d/app/README.md) | <img align="center" src="https://cdn-icons-png.flaticon.com/512/10741/10741222.png" width="30px"> [Quran_app](https://github.com/AyaAbdElmoneim158/Quran_App_2023)
+ :-------------------------:|:-------------------------:|:-------------------------:
+ | | 
+-->
