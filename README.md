@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&color=f75c7e&&width=435&lines=Mobile+Flutter+Developer;Always+Learning+Something+New;Building+Innovative+Mobile+Apps" alt="Typing SVG">
   </a>
 </p>
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 75% height=10px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=75% height=10px>
 
 ### 🚀 About Me:
 - 🎓 I'm a **Computer Science graduate** with a passion for mobile app development.
@@ -15,18 +15,16 @@
 - 📫 **Reach out to me via email:** [ayhb756@gmail.com](mailto:ayhb756@gmail.com).
 - 👀 Check out my **[Portfolio](https://ayaabdelmoneim158.github.io/personal_portfolio-main/indexFlutter.html)** to see my work.
 
-
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 50% height=10px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=50% height=10px>
 
 ### 🔗 Connect With Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/aya-elmoneim/" target="blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/AyaAbdElmoneim158" target="blank"><img src="https://img.shields.io/badge/Github-010409?logo=Github&logoColor=white"></a>
-<a href="ayhb756@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="gmail"></a>
+  <a href="https://github.com/AyaAbdElmoneim158" target="blank"><img src="https://img.shields.io/badge/Github-010409?logo=Github&logoColor=white"></a>
+  <a href="mailto:ayhb756@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="gmail"></a>
 </p>
 
-
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 35% height=10px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=35% height=10px>
 
 ### 🛠️ Technologies and Tools:
 <p align="left">
@@ -53,21 +51,10 @@
   </a>
 </p>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 25% height=10px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=25% height=10px>
 
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyaAbdElmoneim158&show_icons=true&theme=radical" alt="Aya's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaAbdElmoneim158&theme=radical" alt="Aya's GitHub Streak" width="48%" />
 </p>
-
-
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 25% height=10px>
-
-### 🔥 Recent Activity:
-- 🌟 Starred a Flutter repo [Awesome-Flutter-Resources](https://github.com/Solido/awesome-flutter)
-- 📝 Contributed to [my-portfolio](https://ayaabdelmoneim158.github.io/personal_portfolio-main/indexFlutter.html)
-
-
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="50%" height="10px" />
